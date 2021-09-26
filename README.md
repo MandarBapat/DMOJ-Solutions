@@ -1,2 +1,2 @@
 # DMOJ-Solutions
-Solutions to DMOJ problems
+My solutions to DMOJ problems
